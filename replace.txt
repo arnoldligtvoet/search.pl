@@ -1,0 +1,2 @@
+s/"aha this is great"/"wow amazing"/g
+s/Myname/myname/g
